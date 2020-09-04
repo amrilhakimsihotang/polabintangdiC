@@ -1,5 +1,7 @@
 #include<stdio.h>
-
+/*
+programmer:Amril H.S
+*/
 int main(){
     int x;
     int y;
